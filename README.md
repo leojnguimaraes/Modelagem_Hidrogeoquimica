@@ -35,4 +35,4 @@ Ricardo Wanderley e Antonio Barbosa
 
 ## Materiais
 
-- [Artigo Ramos et al. 2023 (Cabiúnas)](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/materiais/Ramos%20et%20al%202023%20CCS%20Cabiunas%20Fm%20-%20Campos%20Basin.pdf)
+- [Artigo Ramos et al. 2023 (Cabiúnas)](https://drive.google.com/file/d/1Lmfc5tY4TlQcG7uxbVom1OfAkPYkNV4H/view?usp=drive_link)
