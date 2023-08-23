@@ -27,11 +27,11 @@ Ricardo Wanderley e Antonio Barbosa
 
 ## Aulas
 
-- [Apresentação Antonio CCS Cabiúnas 17/08/2023](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/presentations/antonio/Apresenta%C3%A7%C3%A3o%20CCS%20Cabiunas%20em%2009-08-23.pdf)
+- [Apresentação Antonio CCS Cabiúnas 17/08/2023](https://drive.google.com/file/d/1RSGFzNVx5wrQrlImtoXa5O3G73WU1sKC/view?usp=drive_link)
 
-- [Apresentação Antonio CO2 18/08/2023](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/presentations/ricardo/Curso%20Geomec%C3%A2nica%20-%20Aula1.pdf)
+- [Apresentação Antonio CO2 18/08/2023](https://drive.google.com/file/d/1iuzr4Att_6GT4OB-hG-YoU2HFXmMEl6p/view?usp=sharing)
 
-- [Aula 1 Ricardo 23/08/2023](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/presentations/ricardo/Curso%20Geomec%C3%A2nica%20-%20Aula1.pdf)
+- [Aula 1 Ricardo 23/08/2023](https://drive.google.com/file/d/1uHXXE4gpoE6dOWP7n_HtkAj1MVTSsBhH/view?usp=sharing)
 
 ## Materiais
 
