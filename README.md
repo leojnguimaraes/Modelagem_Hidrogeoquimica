@@ -13,6 +13,12 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Google Space da turma 2023](https://mail.google.com/mail/u/0/#chat/space/AAAAK1kxmlE)
 
+## Ementas
+
+- [Hidrogeoquímica]()
+
+- [Geomecânica]()
+
 ## Novidades
 
 - [CARBFIX Mineralization Summit](https://www.carbfix.com/mineralization-summit)
@@ -24,3 +30,7 @@ Ricardo Wanderley e Antonio Barbosa
 - [Apresentação Antonio CO2 18/08/2023](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/presentations/ricardo/Curso%20Geomec%C3%A2nica%20-%20Aula1.pdf)
 
 - [Aula 1 Ricardo 23/08/2023](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/presentations/ricardo/Curso%20Geomec%C3%A2nica%20-%20Aula1.pdf)
+
+## Materiais
+
+- 
