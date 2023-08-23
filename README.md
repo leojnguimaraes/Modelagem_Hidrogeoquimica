@@ -4,16 +4,14 @@ Local: Litpeg/UFPE
 Horário: 4as e 6as feiras de 14 às 16h
 
 Professores Responsáveis: 
-Leonardo Guimarães
-Leila Beserra
+Leonardo Guimarães e Leila Beserra
 
 Professores Colaboradores:
-Ricardo Wanderley 
-Antonio Barbosa
+Ricardo Wanderley e Antonio Barbosa
 
 ## Aulas
 
-- [Apresentação Antonio CCS Cabiúnas](./presentations/antonio/Apresentação CCS Cabiunas em 09-08-23.pdf)
+- [Apresentação Antonio CCS Cabiúnas](/leojnguimaraes/Modelagem_Hidrogeoquimica/presentations/antonio/Apresentação CCS Cabiunas em 09-08-23.pdf)
 
 -
 
