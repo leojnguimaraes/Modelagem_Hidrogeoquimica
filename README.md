@@ -9,9 +9,11 @@ Leonardo Guimarães e Leila Beserra
 - Professores Colaboradores:
 Ricardo Wanderley e Antonio Barbosa
 
-## Canal de Comunicação
+## Canais de Comunicação
 
 - [Google Space da turma 2023](https://mail.google.com/mail/u/0/#chat/space/AAAAK1kxmlE)
+
+- [Google Drive da turma 2023](https://drive.google.com/drive/folders/1be6oKoyn6m6eeyONCegvvfZ4HxRMEwq2?usp=sharing)
 
 ## Ementas
 
