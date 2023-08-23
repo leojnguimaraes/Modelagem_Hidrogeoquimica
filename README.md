@@ -11,7 +11,7 @@ Ricardo Wanderley e Antonio Barbosa
 
 ## Aulas
 
-- [Apresentação Antonio CCS Cabiúnas](/leojnguimaraes/Modelagem_Hidrogeoquimica/presentations/antonio/Apresentação CCS Cabiunas em 09-08-23.pdf)
+- [Apresentação Antonio CCS Cabiúnas](presentations/antonio/Apresentação CCS Cabiunas em 09-08-23.pdf)
 
 -
 
