@@ -1,12 +1,12 @@
 # Modelagem Hidrogeoquímica PPGEC/UFPE 2023
 
-Local: Litpeg/UFPE
-Horário: 4as e 6as feiras de 14 às 16h
+- Local: Litpeg/UFPE
+- Horário: 4as e 6as feiras de 14 às 16h
 
-Professores Responsáveis: 
+- Professores Responsáveis: 
 Leonardo Guimarães e Leila Beserra
 
-Professores Colaboradores:
+- Professores Colaboradores:
 Ricardo Wanderley e Antonio Barbosa
 
 ## Aulas
