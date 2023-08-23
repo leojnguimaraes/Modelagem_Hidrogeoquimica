@@ -11,7 +11,7 @@ Ricardo Wanderley e Antonio Barbosa
 
 ## Canais de Comunicação
 
-- [Google Space da turma 2023](https://mail.google.com/mail/u/0/#chat/space/AAAAK1kxmlE)
+- [Google Space da turma 2023](https://mail.google.com/mail/u/0/#chat/space/AAAA8Atv_yw)
 
 - [Google Drive da turma 2023](https://drive.google.com/drive/folders/1be6oKoyn6m6eeyONCegvvfZ4HxRMEwq2?usp=sharing)
 
