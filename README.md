@@ -20,3 +20,7 @@ Ricardo Wanderley e Antonio Barbosa
 ## Novidades
 
 - [CARBFIX Mineralization Summit](https://www.carbfix.com/mineralization-summit)
+
+## Comunicação
+
+- [Google Space da turma](https://mail.google.com/mail/u/0/#chat/space/AAAAK1kxmlE)
