@@ -15,9 +15,9 @@ Ricardo Wanderley e Antonio Barbosa
 
 ## Ementas
 
-- [Hidrogeoquímica]()
+- [Hidrogeoquímica](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/ementas/Modelagem%20Hidrogeoqu%C3%ADmica%202017.pdf)
 
-- [Geomecânica]()
+- [Geomecânica](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/ementas/Ementa_Geomec%C3%A2nica.pdf)
 
 ## Novidades
 
@@ -33,4 +33,4 @@ Ricardo Wanderley e Antonio Barbosa
 
 ## Materiais
 
-- 
+- [Artigo Ramos et al. 2023 (Cabiúnas)](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/materiais/Ramos%20et%20al%202023%20CCS%20Cabiunas%20Fm%20-%20Campos%20Basin.pdf)
