@@ -1,4 +1,4 @@
-# Modelagem Hidrogeoquímica PPGEC/UFPE 2023
+# Modelagem Hidrogeoquímica - PPGEC/UFPE 2023
 
 - Local: Sala 515, LITPEG, UFPE, Campus Recife
 - Horário: 4as e 6as feiras de 14 às 16h
