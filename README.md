@@ -31,7 +31,7 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Apresentação Antonio CO2 18/08/2023](https://drive.google.com/file/d/1iuzr4Att_6GT4OB-hG-YoU2HFXmMEl6p/view?usp=sharing)
 
-- [Aula 1 Ricardo 23/08/2023](https://drive.google.com/file/d/1uHXXE4gpoE6dOWP7n_HtkAj1MVTSsBhH/view?usp=sharing) ==> [📹](https://drive.google.com/file/d/1Ur21aHu6dLZ6NjBbusuD1K21xSzU-_ch/view?usp=sharing)
+- [Aula 1 Ricardo 23/08/2023](https://drive.google.com/file/d/1uHXXE4gpoE6dOWP7n_HtkAj1MVTSsBhH/view?usp=sharing)     [📹](https://drive.google.com/file/d/1Ur21aHu6dLZ6NjBbusuD1K21xSzU-_ch/view?usp=sharing)
 
 ## Materiais
 
