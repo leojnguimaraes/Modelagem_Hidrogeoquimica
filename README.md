@@ -17,9 +17,9 @@ Ricardo Wanderley e Antonio Barbosa
 
 ## Ementas
 
-- [Hidrogeoquímica](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/ementas/Modelagem%20Hidrogeoqu%C3%ADmica%202017.pdf)
+- [Hidrogeoquímica](https://drive.google.com/file/d/1VY-X-1_20dUEJgjguo0wdJyvPnPmu6Ay/view?usp=sharing)
 
-- [Geomecânica](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica/blob/main/ementas/Ementa_Geomec%C3%A2nica.pdf)
+- [Geomecânica](https://drive.google.com/file/d/18Zdk1JbYCjPw59im1qrpOsNyUSF2shuP/view?usp=sharing)
 
 ## Novidades
 
