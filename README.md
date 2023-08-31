@@ -31,12 +31,14 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Apresentação Antonio CO2 18/08/2023](https://drive.google.com/file/d/1iuzr4Att_6GT4OB-hG-YoU2HFXmMEl6p/view?usp=sharing)
 
-- [Aula 23/08/2023](https://drive.google.com/file/d/1uHXXE4gpoE6dOWP7n_HtkAj1MVTSsBhH/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1Ur21aHu6dLZ6NjBbusuD1K21xSzU-_ch/view?usp=sharing)
+- [Aula Geomecânica 23/08/2023](https://drive.google.com/file/d/1uHXXE4gpoE6dOWP7n_HtkAj1MVTSsBhH/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1Ur21aHu6dLZ6NjBbusuD1K21xSzU-_ch/view?usp=sharing)
 
-- [Aula 25/08/2023](https://drive.google.com/file/d/1ZnP-PZlYKG02JVnBbEK30bLsXkqEhvAW/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1mwm4SMOoNowQnB9atC5xI4AwFXPd-KIa/view?usp=sharing)
+- [Aula Geoquímica 25/08/2023](https://drive.google.com/file/d/1ZnP-PZlYKG02JVnBbEK30bLsXkqEhvAW/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1mwm4SMOoNowQnB9atC5xI4AwFXPd-KIa/view?usp=sharing)
 
-- [Aula 31/08/2023]()     [🎦](https://drive.google.com/file/d/176lPsYSmdoIGVO2pW9aEhYji0uXjvhH_/view?usp=sharing)
+- [Aula Geomecânica 31/08/2023](https://drive.google.com/file/d/1W_QSGGtefOvjE15KZE67ejWmsR27UR4N/view?usp=sharing)     [🎦](https://drive.google.com/file/d/176lPsYSmdoIGVO2pW9aEhYji0uXjvhH_/view?usp=sharing)
 
 ## Materiais
 
 - [Artigo Ramos et al. 2023 (Cabiúnas)](https://drive.google.com/file/d/1Lmfc5tY4TlQcG7uxbVom1OfAkPYkNV4H/view?usp=drive_link)
+
+- [Curso de Geomecânica - Teoria - Leonardo Guimarães](http://www.lmcg.ufpe.br/~leo/geomecanica/)
