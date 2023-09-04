@@ -1,6 +1,6 @@
 # Modelagem Hidrogeoquímica - PPGEC/UFPE 2023
 
-- Local: Sala 529, LITPEG, UFPE, Campus Recife
+- Local: Sala 515, LITPEG, UFPE, Campus Recife
 - Horário: 4as e 6as feiras de 14 às 16h
 
 - Professores Responsáveis: 
@@ -33,9 +33,11 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Aula Geomecânica 23/08/2023](https://drive.google.com/file/d/1uHXXE4gpoE6dOWP7n_HtkAj1MVTSsBhH/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1Ur21aHu6dLZ6NjBbusuD1K21xSzU-_ch/view?usp=sharing)
 
-- [Aula Geoquímica 25/08/2023](https://drive.google.com/file/d/1ZnP-PZlYKG02JVnBbEK30bLsXkqEhvAW/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1mwm4SMOoNowQnB9atC5xI4AwFXPd-KIa/view?usp=sharing)
+- [Aula Geoquímica 25/08/2023](https://drive.google.com/file/d/193jjqDFlDvnRYjpiYmBDP5JKsDlxMpO4/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1mwm4SMOoNowQnB9atC5xI4AwFXPd-KIa/view?usp=sharing)
 
 - [Aula Geomecânica 31/08/2023](https://drive.google.com/file/d/1W_QSGGtefOvjE15KZE67ejWmsR27UR4N/view?usp=sharing)     [🎦](https://drive.google.com/file/d/176lPsYSmdoIGVO2pW9aEhYji0uXjvhH_/view?usp=sharing)
+
+- [Aula Geoquímica 01/09/2023](https://drive.google.com/file/d/1tI6gB6jjjKcVI_OOvSjFgxZSlJvA56kj/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1EAqWIMIr3M-N-ecWgU1oIaFx1Q-Vb3Pi/view?usp=sharing)
 
 ## Materiais
 
