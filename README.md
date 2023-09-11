@@ -41,7 +41,7 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Aula Geomecânica 06/09/2023](https://drive.google.com/file/d/1-oH_cSJRqC9k_zBl5fdp_eJCMCQRjSV1/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1f0dwL89kaN5ki5bz4uFDqsdWoT8UQ_K1/view?usp=sharing)
 
-- [Aula Geomecânica 08/09/2023](https://drive.google.com/file/d/156rd3ibwU2S-ABbHLm-ujAoxkMj9RQ5C/view?usp=sharing)     [🎦](https://drive.google.com/file/d/156rd3ibwU2S-ABbHLm-ujAoxkMj9RQ5C/view?usp=sharing)
+- [Aula Geomecânica 08/09/2023](http://www.lmcg.ufpe.br/~leo/geomecanica/)     [🎦](https://drive.google.com/file/d/156rd3ibwU2S-ABbHLm-ujAoxkMj9RQ5C/view?usp=sharing)
 
 
 ## Materiais
