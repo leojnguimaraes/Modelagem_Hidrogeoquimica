@@ -51,4 +51,4 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Curso de Geomecânica - Teoria - Leonardo Guimarães](http://www.lmcg.ufpe.br/~leo/geomecanica/)
 
-- Apresentação de Ewerton Araújo: Geomechanics os CCS     [🎦](https://youtu.be/Gg1kBUUb7iw?si=ugrtKOQs8pInZR9d)
+- Apresentação de Ewerton Araújo: Geomechanics of CCS     [🎦](https://youtu.be/Gg1kBUUb7iw?si=ugrtKOQs8pInZR9d)
