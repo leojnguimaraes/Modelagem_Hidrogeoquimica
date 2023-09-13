@@ -43,7 +43,7 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Aula Geomecânica 08/09/2023](http://www.lmcg.ufpe.br/~leo/geomecanica/)     [🎦](https://drive.google.com/file/d/156rd3ibwU2S-ABbHLm-ujAoxkMj9RQ5C/view?usp=sharing)
 
-- Aula Geomecânica 13/09/2023: [Ricardo](https://docs.google.com/presentation/d/1CQAJbHp_xO1Dk4_vdgBM9sKuVDV1uigr/edit?usp=sharing&ouid=103319067312604580121&rtpof=true&sd=true), [Laura](https://drive.google.com/file/d/1VlUuuECsWIZt-tfbOJrf403O1Pem62Oz/view?usp=sharing), [Paper Laura](https://drive.google.com/file/d/1A0_vn3LWqOz00WMlzQyRZaIyMI0B_IPa/view?usp=sharing) e [Paper apresentado: CO2 com 2phi2k](https://drive.google.com/file/d/1WjdgYoLyLxVz-5GgLRsKRcb3JSzrKF7Q/view?usp=drive_link)     [🎦]()
+- Aula Geomecânica 13/09/2023: [Apresentação de Ricardo](https://docs.google.com/presentation/d/1CQAJbHp_xO1Dk4_vdgBM9sKuVDV1uigr/edit?usp=sharing&ouid=103319067312604580121&rtpof=true&sd=true), [Apresentação de Laura](https://drive.google.com/file/d/1VlUuuECsWIZt-tfbOJrf403O1Pem62Oz/view?usp=sharing), [Paper de Laura](https://drive.google.com/file/d/1A0_vn3LWqOz00WMlzQyRZaIyMI0B_IPa/view?usp=sharing) e [Paper apresentado por Laura (CO2 NFR)](https://drive.google.com/file/d/1WjdgYoLyLxVz-5GgLRsKRcb3JSzrKF7Q/view?usp=drive_link)     [🎦]()
 
 ## Materiais
 
