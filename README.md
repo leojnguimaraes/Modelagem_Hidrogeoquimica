@@ -45,7 +45,7 @@ Ricardo Wanderley e Antonio Barbosa
 
 - Aula Geomecânica 13/09/2023: [Apresentação de Ricardo](https://docs.google.com/presentation/d/1CQAJbHp_xO1Dk4_vdgBM9sKuVDV1uigr/edit?usp=sharing&ouid=103319067312604580121&rtpof=true&sd=true), [Apresentação de Laura](https://drive.google.com/file/d/1VlUuuECsWIZt-tfbOJrf403O1Pem62Oz/view?usp=sharing), [Paper de Laura](https://drive.google.com/file/d/1A0_vn3LWqOz00WMlzQyRZaIyMI0B_IPa/view?usp=sharing) e [Paper apresentado por Laura (CO2 NFR)](https://drive.google.com/file/d/1WjdgYoLyLxVz-5GgLRsKRcb3JSzrKF7Q/view?usp=drive_link)     [🎦](https://drive.google.com/file/d/1cyo-xQBbq_B3fq6xblHi4VRuiMX8FZyi/view?usp=sharing)
 
-- [Aula Geoquímica 15/09/2023](https://drive.google.com/file/d/193jjqDFlDvnRYjpiYmBDP5JKsDlxMpO4/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1fiOrq_ifKTbewisQDAsuz74DtULGeZ2q/view?usp=sharing)
+- [Aula Geoquímica 15/09/2023](https://drive.google.com/file/d/1UezY4ind4kAhqfQeC4PmbCp0_QqS3Sm4/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1fiOrq_ifKTbewisQDAsuz74DtULGeZ2q/view?usp=sharing)
 
 ## Materiais
 
