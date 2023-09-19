@@ -56,3 +56,7 @@ Ricardo Wanderley e Antonio Barbosa
 - Apresentação de Ewerton Araújo: Geomechanics of CCS     [🎦](https://youtu.be/Gg1kBUUb7iw?si=ugrtKOQs8pInZR9d)
 
 - [Livro "Quantitative Hydrogeology", de Marsily](https://drive.google.com/file/d/1lKh6utg71Rmlwl387LstX7xAVCluuM9B/view?usp=sharing)
+
+- [Livro "Dynamics of Fluids in Porous Media", Jacob Bear](https://drive.google.com/file/d/1E9SITCQbXemV0CePFq2fex3XAfoZIsXQ/view?usp=sharing)
+
+- [Livro "Química Geral, Vol 1", Ricardo Feltre](https://drive.google.com/file/d/1gHFm3l7x1OBxtIoL1G101KfidVGorQwr/view?usp=sharing)
