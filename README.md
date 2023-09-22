@@ -47,6 +47,8 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Aula Geoquímica 15/09/2023](https://drive.google.com/file/d/1UezY4ind4kAhqfQeC4PmbCp0_QqS3Sm4/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1fiOrq_ifKTbewisQDAsuz74DtULGeZ2q/view?usp=sharing)
 
+- [Aula Geomecânica 20/09/2023](https://drive.google.com/file/d/1aYFM0Bm_x1bv4N9eytUmPL1UqiCyFFTH/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1ngNIJywYRoDMR2rXWdsuGOy5Vzl5sriC/view?usp=sharing)
+
 ## Materiais
 
 - [Artigo Ramos et al. 2023 (Cabiúnas)](https://drive.google.com/file/d/1Lmfc5tY4TlQcG7uxbVom1OfAkPYkNV4H/view?usp=drive_link)
