@@ -51,11 +51,13 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Aula Geoquímica 22/09/2023](https://drive.google.com/file/d/1846_IC5S8QzACGZ4_t3WfsGPBRe8PLle/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1veVRG3_djsGgVvIytoATOrzDt_N1KKci/view?usp=sharing)
 
-- [Aula Geomecânica]()     [🎦]()
+- [Aula Geomecânica 27/09/2023]()     [🎦]()
   
 - [Aula Geomecânica 29/09/2023 🎦](https://drive.google.com/file/d/1exkm-kp922sJKts6mZ2hsOeImNyRHIbE/view?usp=sharing)
 
-- [Aula Geomecânica 13/10/2023]()     [🎦]()
+- [Aula Geomecânica 04/10/2023]()     [🎦](https://drive.google.com/file/d/1MZWDn6BZdhQxAZGM6z0X2yRhyRKF-6LU/view?usp=sharing)
+
+- [Aula Geomecânica 13/10/2023 🎦](https://drive.google.com/file/d/1noVp6-yC5PYIBzOlmyAWBupwelyLYriJ/view?usp=sharing)
   
 ## Materiais
 
