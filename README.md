@@ -57,11 +57,11 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Aula Geomecânica 13/10/2023](https://drive.google.com/file/d/15HumLqROqs82bbBL4LeFlWKQ8V3x1f_F/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1noVp6-yC5PYIBzOlmyAWBupwelyLYriJ/view?usp=sharing)
 
-- [Aula Geomecânica 18/10/2023 🎦](https://drive.google.com/file/d/17CAo1aIWK7Mq-rjczDR_n3T525sCoHWX/view?usp=sharing)
+- Aula Geomecânica 18/10/2023 [🎦](https://drive.google.com/file/d/17CAo1aIWK7Mq-rjczDR_n3T525sCoHWX/view?usp=sharing)
 
-- [Aula Geomecânica 25/10/2023 (Anny e Oscar) 🎦](https://drive.google.com/file/d/165ITApjqu4jvR-io6HWE3YKYhbWTFWWn/view)
+- Aula Geomecânica 25/10/2023 (Anny e Oscar) [🎦](https://drive.google.com/file/d/165ITApjqu4jvR-io6HWE3YKYhbWTFWWn/view)
 
-- [Aula Geomecânica 1/11/2023 🎦](https://drive.google.com/file/d/1pEzbNOonE4NMJRBKVVNWPfozbM-WX64t/view)
+- Aula Geomecânica 1/11/2023 [🎦](https://drive.google.com/file/d/1pEzbNOonE4NMJRBKVVNWPfozbM-WX64t/view)
 
 ## Parte prática (avaliação para os oficialmente matriculados)
 
