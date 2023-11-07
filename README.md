@@ -66,6 +66,7 @@ Ricardo Wanderley e Antonio Barbosa
 ## Parte prática (avaliação para os oficialmente matriculados)
 
 - [Caso Dean 3: material para simulação e vídeos explicativos](https://drive.google.com/drive/folders/1eRjnvt87YyOgwP3P3jI9IwMruxY8bdmq?usp=sharing_eil_se_dm&ts=653013ee)
+- Exercício 1: com base no caso Dean 3 descrito acima, (a) realizar a análise de sensibilidade dos parâmetros mecânicos (Módulo de Young e Coeficiente de Poisson) das rochas do reservatório e da capeadora, (b) utilizar as ferramentas de pós-processamento (GID e scripts) para avaliar a influência desses parâmetros na subsidência, compactação e produção. Sugestão: pesquisar e determinar os parâmetros das rochas capeadora (shale) e do reservatório (arenítico ou carbonático), diferentes do caso original.
   
 ## Materiais
 
