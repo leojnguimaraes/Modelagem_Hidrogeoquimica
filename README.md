@@ -59,6 +59,10 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Aula Geomecânica 18/10/2023 🎦](https://drive.google.com/file/d/17CAo1aIWK7Mq-rjczDR_n3T525sCoHWX/view?usp=sharing)
 
+- [Aula Geomecânica 25/10/2023 (Anny e Oscar) 🎦](https://drive.google.com/file/d/165ITApjqu4jvR-io6HWE3YKYhbWTFWWn/view)
+
+- [Aula Geomecânica 1/11/2023 🎦](https://drive.google.com/file/d/1pEzbNOonE4NMJRBKVVNWPfozbM-WX64t/view)
+
 ## Parte prática (avaliação para os oficialmente matriculados)
 
 - [Caso Dean 3: material para simulação e vídeos explicativos](https://drive.google.com/drive/folders/1eRjnvt87YyOgwP3P3jI9IwMruxY8bdmq?usp=sharing_eil_se_dm&ts=653013ee)
