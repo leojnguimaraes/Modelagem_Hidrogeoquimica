@@ -63,6 +63,8 @@ Ricardo Wanderley e Antonio Barbosa
 
 - Aula Geomecânica 1/11/2023 [🎦](https://drive.google.com/file/d/1pEzbNOonE4NMJRBKVVNWPfozbM-WX64t/view)
 
+- Aula Geomecânica 8/11/2023 (Manoel Porfírio, UnB Estados Críticos - CAMCLAY) [🎦](https://drive.google.com/file/d/1aQb7q5BgaRJsLON50YsTBRgIGRnZT4ne/view)
+
 ## Parte prática (avaliação para os oficialmente matriculados)
 
 - [Caso Dean 3: material para simulação e vídeos explicativos](https://drive.google.com/drive/folders/1eRjnvt87YyOgwP3P3jI9IwMruxY8bdmq?usp=sharing_eil_se_dm&ts=653013ee)
