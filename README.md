@@ -65,10 +65,12 @@ Ricardo Wanderley e Antonio Barbosa
 
 - Aula Geomecânica 8/11/2023 (Manoel Porfírio, UnB Estados Críticos - CAMCLAY) [🎦](https://drive.google.com/file/d/1aQb7q5BgaRJsLON50YsTBRgIGRnZT4ne/view)
 
+- Aula Geomecânica 10/11/2023 [🎦](https://drive.google.com/file/d/1qKFzTl-QL0JE8tVy8kzH_EiofEUa0_AT/view)
+
 ## Parte prática (avaliação para os oficialmente matriculados)
 
 - [Caso Dean 3: material para simulação e vídeos explicativos](https://drive.google.com/drive/folders/1eRjnvt87YyOgwP3P3jI9IwMruxY8bdmq?usp=sharing_eil_se_dm&ts=653013ee)
-- Exercício 1: com base no caso Dean 3 descrito acima, realizar a análise de sensibilidade dos parâmetros mecânicos (Módulo de Young e Coeficiente de Poisson) das rochas reservatório e capeadora e permeabilidade da rocha reservatório utilizando as ferramentas de pós-processamento (GID e scripts) para avaliar a influência desses parâmetros na subsidência da superfície, compactação do reservatório e produção total de fluido. Sugestão: para a análise de sensibilidade, pesquisar e determinar os parâmetros (e seus intervalos de variação) das rochas capeadora e reservatório supondo que elas podem ser folhelhos (no caso da capeadora), arenitos ou carbonatos (no caso do reservatório). Estudo avançado (opcional): fazer a permeabilidade variar com a porosidade e avaliar o impacto dessa lei de variação na produção, compactação e subcidência. Anny e Oscar serão os monitores dessa atividade. **A entrega será uma apresentação de PowerPoint, a ser feita até o final de novembro.**
+- Exercício 1: com base no caso Dean 3 descrito acima, realizar a análise de sensibilidade dos parâmetros mecânicos (Módulo de Young e Coeficiente de Poisson) das rochas reservatório e capeadora e permeabilidade da rocha reservatório utilizando as ferramentas de pós-processamento (GID e scripts) para avaliar a influência desses parâmetros na subsidência da superfície, compactação do reservatório e produção total de fluido. Sugestão: para a análise de sensibilidade, pesquisar e determinar os parâmetros (e seus intervalos de variação) das rochas capeadora e reservatório supondo que elas podem ser folhelhos (no caso da capeadora), arenitos ou carbonatos (no caso do reservatório). Estudo avançado (opcional): fazer a permeabilidade variar com a porosidade e avaliar o impacto dessa lei de variação na produção, compactação e subcidência. Eu, a Profa. Leila, Anny e Oscar serão os instrutores dessa atividade. **A entrega será uma apresentação de PowerPoint, a ser feita até o final de dezembro.**
   
 ## Materiais
 
