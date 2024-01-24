@@ -73,7 +73,7 @@ Ricardo Wanderley e Antonio Barbosa
 
 - Aula Geomecânica 24/11/2023 [🎦](https://drive.google.com/file/d/1yDLW4cd_fsojswGZsi8fOHgJASN4s0vB/view)
 
-- [Aula Geoquímica 24/01/2024]() [🎦](https://drive.google.com/file/d/12Ok6xfmFXVN8cFUYeK1qrKKVMIqKf7xo/view?usp=sharing)
+- [Aula Geoquímica 24/01/2024](https://drive.google.com/file/d/1va-GWEeF08gkz24XFZM7GO_ieA1XSE5j/view?usp=sharing) [🎦](https://drive.google.com/file/d/12Ok6xfmFXVN8cFUYeK1qrKKVMIqKf7xo/view?usp=sharing)
 
 ## Parte prática (avaliação para os oficialmente matriculados)
 
