@@ -81,6 +81,8 @@ Ricardo Wanderley e Antonio Barbosa
 
 - [Aula Geoquímica 23/02/2024](https://drive.google.com/file/d/1tPFA85z3KdgwRlam92pu-8kae9bzt568/view?usp=sharing) [🎦](https://drive.google.com/file/d/12Muu5sNzGakWrLXOSRX1NZQUeb5_WpGZ/view?usp=sharing)
 
+- [Aula Geoquímica 1/03/2024](https://drive.google.com/file/d/1mF1BL6YCARPhqVCV1Rl8zo9m9qf-0L4A/view?usp=sharing) [🎦](https://drive.google.com/file/d/12y0OBrYqb3YE2kEqbnG_K7YkQozoJG5Y/view)
+  
 ## Parte prática (avaliação para os oficialmente matriculados)
 
 - [Caso Dean 3: material para simulação e vídeos explicativos](https://drive.google.com/drive/folders/1eRjnvt87YyOgwP3P3jI9IwMruxY8bdmq?usp=sharing_eil_se_dm&ts=653013ee)
