@@ -82,6 +82,8 @@ Ricardo Wanderley e Antonio Barbosa
 - [Aula Geoquímica 23/02/2024](https://drive.google.com/file/d/1tPFA85z3KdgwRlam92pu-8kae9bzt568/view?usp=sharing) [🎦](https://drive.google.com/file/d/12Muu5sNzGakWrLXOSRX1NZQUeb5_WpGZ/view?usp=sharing)
 
 - [Aula Geoquímica 1/03/2024](https://drive.google.com/file/d/1mF1BL6YCARPhqVCV1Rl8zo9m9qf-0L4A/view?usp=sharing) [🎦](https://drive.google.com/file/d/12y0OBrYqb3YE2kEqbnG_K7YkQozoJG5Y/view)
+
+- [Aula Geoquímica 5/04/2024](https://drive.google.com/file/d/1crHKCnQm2CbhwBTX1jiKADyqN7AF5GfL/view?usp=sharing) [🎦](https://drive.google.com/file/d/1Fq8lW-34htRtg54-ZbrZcQoQiIB3VXtQ/view?usp=sharing)
   
 ## Parte prática (avaliação para os oficialmente matriculados)
 
@@ -96,6 +98,8 @@ Ricardo Wanderley e Antonio Barbosa
 - [Artigo Ramos et al. 2023 (Cabiúnas)](https://drive.google.com/file/d/1Lmfc5tY4TlQcG7uxbVom1OfAkPYkNV4H/view?usp=drive_link)
 
 - [Curso de Geomecânica - Teoria - Leonardo Guimarães](http://www.lmcg.ufpe.br/~leo/geomecanica/)
+
+- [Curso de Geoquímica - Teoria - Leonardo Guimarães](https://drive.google.com/file/d/19y-JtoszVk79hfww-SNZ_Vw6ojQaREzD/view?usp=sharing)
 
 - Apresentação de Ewerton Araújo: Geomechanics of CCS     [🎦](https://youtu.be/Gg1kBUUb7iw?si=ugrtKOQs8pInZR9d)
 
