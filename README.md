@@ -84,6 +84,8 @@ Ricardo Wanderley e Antonio Barbosa
 - [Aula Geoquímica 1/03/2024](https://drive.google.com/file/d/1mF1BL6YCARPhqVCV1Rl8zo9m9qf-0L4A/view?usp=sharing) [🎦](https://drive.google.com/file/d/12y0OBrYqb3YE2kEqbnG_K7YkQozoJG5Y/view)
 
 - [Aula Geoquímica 5/04/2024](https://drive.google.com/file/d/1crHKCnQm2CbhwBTX1jiKADyqN7AF5GfL/view?usp=sharing) [🎦](https://drive.google.com/file/d/1Fq8lW-34htRtg54-ZbrZcQoQiIB3VXtQ/view?usp=sharing)
+
+- [Aula Geoquímica 26/04/2024]() [🎦]()
   
 ## Parte prática (avaliação para os oficialmente matriculados)
 
